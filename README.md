@@ -50,7 +50,7 @@ height="30"
 width="40"
 />
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and tools
 
 <div align="left">
 <img
@@ -154,6 +154,8 @@ width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
 />
 </div>
+
+# Stats
 <img
 align="center"
 src="https://github-readme-stats.vercel.app/api?username=mt-alejo&show_icons=true&locale=en"
