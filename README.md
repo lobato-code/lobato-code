@@ -16,7 +16,7 @@ experiences [resume.com](resume.com)
 <img
 align="left"
 width="48%"
-height="210"
+height="200"
 src="https://github-readme-streak-stats.herokuapp.com/?user=mt-alejo&"
 alt="mt-alejo"
 />
