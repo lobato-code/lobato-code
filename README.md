@@ -160,6 +160,4 @@ width="40"
 align="center"
 src="https://github-readme-stats.vercel.app/api?username=mt-alejo&show_icons=true&locale=en"
 alt="mt-alejo"
-/> </a
-></a>
-</p>
+/>
