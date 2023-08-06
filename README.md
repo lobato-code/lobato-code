@@ -22,7 +22,7 @@ alt="mt-alejo"
 
 <img
 align="left"
-width="500"
+width="48%"
 height="200"
 src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif"
 alt=""
@@ -154,8 +154,7 @@ width="40"
 />
 </div>
 <img
-align="left"
-width="48%"
+align="center"
 src="https://github-readme-stats.vercel.app/api?username=mt-alejo&show_icons=true&locale=en"
 alt="mt-alejo"
 /> </a
