@@ -12,7 +12,7 @@ articles on [medium.com](medium.com)
 - 📄 Know about my
 experiences [resume.com](resume.com)
 
-<div style="display: flex; gap: 30px">
+
 <img
 align="left"
 width="48%"
@@ -27,7 +27,7 @@ height="200"
 src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif"
 alt=""
 />
-</div>
+
 
 <h3>Connect with me:</h3>
 <p>
