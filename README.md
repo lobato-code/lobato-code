@@ -15,7 +15,7 @@ experiences [resume.com](resume.com)
 
 <img
 align="left"
-width="49%"
+width="48%"
 height="200"
 src="https://github-readme-streak-stats.herokuapp.com/?user=mt-alejo&"
 alt="mt-alejo"
@@ -30,7 +30,7 @@ alt=""
 />
 
 
-<h3>Connect with me:</h3>
+# Connect with me:
 <p>
 <a href="https://twitter.com/mt_alejo_" target="blank"
 ><img
