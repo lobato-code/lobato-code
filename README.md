@@ -15,7 +15,7 @@ experiences [resume.com](resume.com)
 
 <img
 align="left"
-width="50%"
+width="48%"
 height="210"
 src="https://github-readme-streak-stats.herokuapp.com/?user=mt-alejo&"
 alt="mt-alejo"
@@ -23,7 +23,7 @@ alt="mt-alejo"
 
 <img
 align="left"
-width="40%"
+width="49%"
 height="200"
 src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif"
 alt=""
