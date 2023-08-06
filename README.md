@@ -148,16 +148,14 @@ width="40"
 />
 
 <img
-  align="left"
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
 />
 </div>
 
-<h3>Stats: <h3/>
+# Status
 <img
-align="center"
 src="https://github-readme-stats.vercel.app/api?username=mt-alejo&show_icons=true&locale=en"
 alt="mt-alejo"
 />
