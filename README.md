@@ -52,7 +52,7 @@ width="40"
 
 # Languages and tools
 
-<div align="left">
+<div>
 <img
   align="left"
   width="30px"
