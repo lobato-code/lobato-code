@@ -155,7 +155,7 @@ width="40"
 />
 </div>
 
-# Stats
+<h3>Stats: <h3/>
 <img
 align="center"
 src="https://github-readme-stats.vercel.app/api?username=mt-alejo&show_icons=true&locale=en"
