@@ -1,16 +1,11 @@
 <h1 align="center">Ariel Alejandro</h1>
-<h3 align="center">Frontend -React Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🌱 I'm currently learning **Full Stack Development** 
+- 🌱 I'm currently learning **Databases** 
 - 👨‍💻 All of my projects
-are available at [portofolio.com](portofolio.com) 
-- 📝 I regularly write
-articles on [medium.com](medium.com) 
-- 💬 Ask me about **Self taught learning**
-
+are available at [my portfolio](https://mt-alejo.netlify.app/)
 - 📫 How to reach me **mt.calderon.alejandro@gmail.com** 
-- 📄 Know about my
-experiences [resume.com](resume.com)
+- ☕ My stack is Javascript with React and Node. 
 
 
 <img
