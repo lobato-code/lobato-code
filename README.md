@@ -12,8 +12,8 @@
 
 <img
 align="left"
-width="48%"
-height="200"
+width="40%"
+height="250"
 src="https://github-readme-streak-stats.herokuapp.com/?user=mt-alejo&"
 alt="mt-alejo"
 />
@@ -41,6 +41,9 @@ alt="mt-alejo"
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=302d41&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/-CSS3-0512AB?style=for-the-badge&color=302d41&logo=CSS3&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-0512AB?style=for-the-badge&color=302d41&logo=HTML5&logoColor=E34F26)
+
+&nbsp;
+
 
 ### ⭐ Stats
 
