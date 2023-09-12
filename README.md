@@ -49,7 +49,7 @@ alt="lobato-code"
 
 <!-- Catppuccin themed -->
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lobato-code&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-alejo&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobato-code&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
 
 &nbsp;
 
