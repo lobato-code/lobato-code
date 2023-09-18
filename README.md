@@ -5,7 +5,7 @@
 
 - 📙 Currently learning: **Typescript and SQL**
 - ☕ Stack: Javascript with React and Node.
-- 👨‍💻 Projects are available at [my portfolio website](https://mt-alejo.netlify.app/)
+- 👨‍💻 Projects are available at [my portfolio website](https://ariel-alejandro.netlify.app/)
 - 📫 How to reach me **mt.calderon.alejandro@gmail.com**
 
 &nbsp;
