@@ -14,8 +14,8 @@
 align="left"
 width="40%"
 height="250"
-src="https://github-readme-streak-stats.herokuapp.com/?user=lobato-code&"
-alt="lobato-code"
+src="https://github-readme-streak-stats.herokuapp.com/?user=zubstack&"
+alt="zubstack"
 />
 
 &nbsp;
@@ -48,8 +48,8 @@ alt="lobato-code"
 ### ⭐ Stats
 
 <!-- Catppuccin themed -->
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lobato-code&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobato-code&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=zubstack&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubstack&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
 
 &nbsp;
 
