@@ -24,7 +24,7 @@ alt="zubstack"
 
 <!-- Icons: https://simpleicons.org/ -->
 
-![Postgres](https://img.shields.io/badge/-Sqlite-05122A?style=for-the-badge&color=302d41&logo=postgres)
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=for-the-badge&color=302d41&logo=postgres)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&color=302d41&logo=sass)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=302d41&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=for-the-badge&color=302d41&logo=mongodb)
