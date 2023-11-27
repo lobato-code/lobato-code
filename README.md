@@ -3,7 +3,7 @@
 
 ### About Me
 
-- 📙 Currently learning: **Typescript and SQL**
+- 📙 Currently learning: **Databases**
 - ☕ Stack: Javascript with React and Node.
 - 👨‍💻 Projects are available at [my portfolio website](https://ariel-alejandro.netlify.app/)
 - 📫 How to reach me **mt.calderon.alejandro@gmail.com**
@@ -24,7 +24,7 @@ alt="zubstack"
 
 <!-- Icons: https://simpleicons.org/ -->
 
-![SQLite](https://img.shields.io/badge/-Sqlite-05122A?style=for-the-badge&color=302d41&logo=sqlite)
+![Postgres](https://img.shields.io/badge/-Sqlite-05122A?style=for-the-badge&color=302d41&logo=postgres)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&color=302d41&logo=sass)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=302d41&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-Mongo-05122A?style=for-the-badge&color=302d41&logo=mongodb)
