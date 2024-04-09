@@ -1,5 +1,5 @@
 <h1 align="center">Ariel Alejandro</h1>
-<h3 align="center">Fullstack Javascript developer</h3>
+<h3 align="center">Javascript developer</h3>
 
 ### About Me
 - ☕ Stack: Javascript with React and Node.
