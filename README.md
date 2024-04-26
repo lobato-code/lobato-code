@@ -1,21 +1,4 @@
 <h1 align="center">Ariel Alejandro</h1>
-<h3 align="center">Javascript developer</h3>
-
-### About Me
-- ☕ Stack: Javascript with React and Node.
-- 👨‍💻 Projects are available at [my portfolio website](https://ariel-alejandro.netlify.app/)
-
-&nbsp;
-
-<img
-align="left"
-width="40%"
-height="250"
-src="https://github-readme-streak-stats.herokuapp.com/?user=zubstack&"
-alt="zubstack"
-/>
-
-&nbsp;
 
 ### Tools / Languages
 
@@ -41,19 +24,6 @@ alt="zubstack"
 
 &nbsp;
 
-###
 
-<a href="http://www.github.com/zubstack"><img src="https://github-readme-stats.vercel.app/api?username=zubstack&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=001f3f&bg_color=000000&hide_border=true&show_icons=true" alt="zubstack's GitHub stats" /></a>
 
-&nbsp;
-
-### Contact me 🌐
-
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
-[<img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-
-&nbsp;
-
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/alejandro-calderon-72b662233/
-[twitter]: https://twitter.com/mt_alejo_
 
